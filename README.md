@@ -68,3 +68,10 @@ Running GzWeb involves the following pieces:
 	http://localhost:8080
 	
 #4. To stop gzserver or the GzWeb servers, just press Ctrl+C in their terminals.
+
+# Run the python script to see the turtle in action in our web browser:
+
+run your python turtlebot3 file in catkin_ws directory:
+
+	rosrun name_of_the_package turtlebot3_move_gz.py
+
